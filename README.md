@@ -1,4 +1,4 @@
-# Belajar GitHub
+# GitHub
 
 Repository ini dibuat untuk latihan dasar Git & GitHub.
 
